@@ -1,0 +1,12 @@
+## Interface: 120000
+## Title: |cffe51039Norsken|r|cffb3b3b3Media|r
+## Category: |cffe51039Norsken|r |cffb3b3b3Addons|r
+## Notes: Custom sounds
+## Version: v12.0
+## DefaultState: Enable
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0.lua
+
+NorskenMedia.lua
